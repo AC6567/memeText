@@ -1,0 +1,25 @@
+{
+  "name": "memetext",
+  "version": "0.0.1",
+  "description": "memeText a random meme generator using the Ballmer Peak principle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo memText && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackGuyCoding/memeText.git"
+  },
+  "keywords": [
+    "memeText",
+    "Ballmer",
+    "Peak",
+    "Hackathon"
+  ],
+  "author": "BlackGuyCoding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackGuyCoding/memeText/issues"
+  },
+  "homepage": "https://github.com/BlackGuyCoding/memeText#readme"
+}
