@@ -12,6 +12,7 @@
     <link href="meme-style.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <<script src="src/meme.js"></script>
+    <script src="index.js"></script>
   </head>
 
   <body>
@@ -40,15 +41,16 @@
     <div class="container">
 
       <div class="template">
-        <input type="text" name="sms">
+        <input type="text" name="sms" id="input-query">
         <div class="send">
-          <a class="button" href="#">
+          <a class="button" id="userQuery" href="#" onclick="sendRequest()">
           Send
           </a>
         </div>
       </div>
+      <div id="result"></div>
 
     </div>
-
+<script>query = document.getElementById("input-query");</script>
   </body>
 </html>
