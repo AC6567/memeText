@@ -14,9 +14,9 @@ body{
 }
 /*button */
 .button{
-  color: #fffff8;
+  color: white;
   display: inline-block;
-  background-color: rgba(0,0,0,.85);
+  background-color: black;;
   font-size: 15px;
   font-size: 1.5rem;
   line-height: 36px;
@@ -32,7 +32,8 @@ body{
   vertical-align: middle;
 }
 .button:hover{
-  color: #3cb14a;
+  opacity: 0.8;
+  color: white;
 }
 #result {
   text-align: center;
@@ -58,7 +59,16 @@ body{
   background-color: white!important;
   border: none!important;
 }
+.template {
+ width: 950px;
+}
 .template input {
   height: 55px;
-  width: 600px;
+  width: 800px;
+}
+.template h1 {
+  color: white;
+  font-size: 24pt;
+   text-shadow: 2px 2px black;
+   padding: 15px 0 25px 0;
 }
