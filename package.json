@@ -21,14 +21,5 @@
   "bugs": {
     "url": "https://github.com/BlackGuyCoding/memeText/issues"
   },
-<<<<<<< HEAD
-  "homepage": "https://github.com/BlackGuyCoding/memeText#readme",
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.5.3"
-  }
-}
-=======
   "homepage": "https://github.com/BlackGuyCoding/memeText#readme"
 }
->>>>>>> a56dff3585134de921f4027f0e5ae86761b55790
