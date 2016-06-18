@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo memText && exit 1"
-  },
+  },a
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BlackGuyCoding/memeText.git"
