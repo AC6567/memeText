@@ -1,8 +1,28 @@
-.starter-template{
+.template{
   margin-top: 65px;
 }
-
-
+/*button */
+.button{
+  color: #fffff8;
+  display: inline-block;
+  background-color: rgba(0,0,0,.85);
+  font-size: 15px;
+  font-size: 1.5rem;
+  line-height: 36px;
+  line-height: 3.6rem;
+  font-weight: 400;
+  border-radius: 0;
+  font-family: "Reader Medium";
+  letter-spacing: 1px;
+  letter-spacing: .1rem;
+  padding: 0 26px;
+  padding: 0 2.6rem;
+  text-transform: uppercase;
+  vertical-align: middle;
+}
+.button:hover{
+  color: #3cb14a;
+}
 @media all and (max-width: 960px) {
   
 
