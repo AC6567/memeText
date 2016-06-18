@@ -4,7 +4,11 @@ body{
   background-repeat: no-repeat;
 }
 .template{
-  margin-top: 65px;
+  margin: 20% 30%;
+  float: right;
+}
+.send{
+  margin-top: 10px;
 }
 /*button */
 .button{
