@@ -4,8 +4,8 @@
   "description": "memeText a random meme generator using the Ballmer Peak principle",
   "main": "index.js",
   "scripts": {
-    "test": "echo memText && exit 1"
-  },a
+    "start": "node index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BlackGuyCoding/memeText.git"
@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/BlackGuyCoding/memeText/issues"
   },
-  "homepage": "https://github.com/BlackGuyCoding/memeText#readme"
+  "homepage": "https://github.com/BlackGuyCoding/memeText#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
 }
